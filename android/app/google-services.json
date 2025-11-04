@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9899547185",
+    "project_id": "fir-flutter-ecaf4",
+    "storage_bucket": "fir-flutter-ecaf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9899547185:android:087f7a49d6fde5f3ed1310",
+        "android_client_info": {
+          "package_name": "com.example.mxh_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRYdhqUAczF_NloHspQlFIiWabsZ0JUIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
